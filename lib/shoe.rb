@@ -12,3 +12,6 @@ class Shoe
     puts "Your shoe is as good as new!"
   end
 end
+
+p shoe = Shoe.new("nike")
+p shoe1 = Shoe.new("hoka")
